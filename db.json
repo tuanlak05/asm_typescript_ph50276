@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "bd41",
+      "name": "Product 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVv0X1OiwK4BXsh6RT2w1jXWPS3LoHJ74_Q&s",
+      "price": "333"
+    },
+    {
+      "id": "be81",
+      "name": "them moi 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVv0X1OiwK4BXsh6RT2w1jXWPS3LoHJ74_Q&s",
+      "price": "1111"
+    },
+    {
+      "id": "e76f",
+      "name": "Product 2",
+      "image": "https://i.pinimg.com/736x/0e/98/94/0e989439eb61d220657f019d98c92def.jpg",
+      "price": "13"
+    },
+    {
+      "id": "9e9a",
+      "name": "Product 2",
+      "image": "https://cdn.mobilecity.vn/mobilecity-vn/images/2023/08/phim-hoat-hinh-3d-trung-quoc-hay-nhat-top-5.jpg.webp",
+      "price": "13"
+    },
+    {
+      "id": "458e",
+      "name": "updete1",
+      "image": "https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/165802/Originals/100-hinh-nen-anime-nu-dep-cho-dien-thoai-may-tinh-an-tuong-hon-7.jpg",
+      "price": "123"
+    }
+  ],
+  "users": [
+    {
+      "id": "0d7c",
+      "email": "tuan1@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "79c8",
+      "email": "q@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "6859",
+      "email": "tuant1@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "c462",
+      "email": "a1@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "1543",
+      "email": "pp1@gmail.com",
+      "password": "123456"
+    }
+  ]
+}

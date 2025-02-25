@@ -1,0 +1,70 @@
+/* Register.css */
+
+/* Toàn bộ form */
+.all {
+    background-color: #f9f9f9;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Tiêu đề */
+  h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Các ô nhập liệu */
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    font-size: 16px;
+    box-sizing: border-box;
+    background-color: #c6d4e3;
+    padding: 15px;
+    width: 300px;
+  }
+  
+  /* Nhãn */
+  label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    text-align: left;
+  }
+  
+  /* Nút đăng ký */
+  button {
+    background-color: green;
+    color: rgb(199, 55, 55);
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    width: 100%;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  button:hover:enabled {
+    background-color: #0056b3;
+  }
+  
+  /* Thông báo lỗi */
+  p {
+    color: red;
+    margin: 0;
+    font-size: 14px;
+  }
+  
